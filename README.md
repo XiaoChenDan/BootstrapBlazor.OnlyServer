@@ -1,0 +1,2 @@
+# BootstrapBlazor.OnlyServer
+ 
